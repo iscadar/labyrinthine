@@ -1,0 +1,19 @@
+{
+     "button":
+     {
+         
+         "images":
+         {
+             "normal_image": {
+                 "path": "GUI/button.png"
+             },
+             "hovered_image": {
+                 "path": "GUI/button_hover.png"
+             },
+             "selected_image": {
+                 "path": "GUI/button_click.png"
+             }
+
+         }
+     }
+ }
